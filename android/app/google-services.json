@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587760948908",
+    "firebase_url": "https://loginauth-6237d.firebaseio.com",
+    "project_id": "loginauth-6237d",
+    "storage_bucket": "loginauth-6237d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587760948908:android:8609820eebd0af489eb109",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587760948908-mb6pdd3r7714mckbdhc461f3o2059hn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPqBeM5ks3Hgn_KqDoHzS-12xOT_CzRPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587760948908-mb6pdd3r7714mckbdhc461f3o2059hn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
